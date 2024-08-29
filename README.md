@@ -2,6 +2,8 @@
 
 This project was developed using resources and code from the following Colab notebook: [Zero-Shot Object Detection with YOLO-World](https://colab.research.google.com/github/roboflow/supervision/blob/develop/docs/notebooks/zero-shot-object-detection-with-yolo-world.ipynb#scrollTo=T-lkdAZUY73s).
 
+Dataset: https://www.kaggle.com/datasets/sshikamaru/car-object-detection
+
 
 # YOLO-World: Efficient Zero-Shot Object Detection
 
