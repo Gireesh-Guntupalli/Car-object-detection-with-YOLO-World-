@@ -1,5 +1,8 @@
 # Car-object-detection-with-YOLO-World
 
+This project was developed using resources and code from the following Colab notebook: [Zero-Shot Object Detection with YOLO-World](https://colab.research.google.com/github/roboflow/supervision/blob/develop/docs/notebooks/zero-shot-object-detection-with-yolo-world.ipynb#scrollTo=T-lkdAZUY73s).
+
+
 # YOLO-World: Efficient Zero-Shot Object Detection
 
 YOLO-World is a state-of-the-art object detection model that tackles a critical limitation of existing zero-shot object detection architectures: **speed**. While many contemporary models utilize powerful but slower Transformer-based architectures, YOLO-World employs the faster and more efficient Convolutional Neural Network (CNN)-based YOLO (You Only Look Once) architecture. This allows YOLO-World to achieve high detection accuracy with significantly higher frames per second (FPS) compared to Transformer-based models.
