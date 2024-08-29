@@ -1,6 +1,14 @@
 # Car-object-detection-with-YOLO-World
 
-This project was developed using resources and code from the following Colab notebook: [Zero-Shot Object Detection with YOLO-World](https://colab.research.google.com/github/roboflow/supervision/blob/develop/docs/notebooks/zero-shot-object-detection-with-yolo-world.ipynb#scrollTo=T-lkdAZUY73s).
+This project was inspired by and referenced the following paper:
+
+**YOLO-World: Real-Time Open-Vocabulary Object Detection**  
+Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan  
+arXiv preprint arXiv:2401.17270 (2024).  
+Available at: [https://arxiv.org/abs/2401.17270](https://arxiv.org/abs/2401.17270)
+
+This project was developed using resources and code from the following Colab notebook: [Zero-Shot Object Detection with YOLO-World]
+(https://colab.research.google.com/github/roboflow/supervision/blob/develop/docs/notebooks/zero-shot-object-detection-with-yolo-world.ipynb#scrollTo=T-lkdAZUY73s).
 
 Dataset: https://www.kaggle.com/datasets/sshikamaru/car-object-detection
 
