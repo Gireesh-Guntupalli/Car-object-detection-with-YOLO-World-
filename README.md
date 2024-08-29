@@ -51,3 +51,5 @@ For example, given a phrase like "the red car on the left," YOLO-World can ident
 
 ## Getting Started
 Notebook settings -> Hardware accelerator, set it to GPU, and then click Save.
+!pip install -q inference-gpu[yolo-world]==0.9.12rc1
+!pip install -q supervision==0.19.0rc3
