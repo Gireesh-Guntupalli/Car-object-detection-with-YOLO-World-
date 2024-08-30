@@ -1,5 +1,8 @@
 # Car-object-detection-with-YOLO-World
 
+<img width="385" alt="image" src="https://github.com/user-attachments/assets/df16477a-8f29-4079-95b8-c01c8e0b0bf4">
+
+
 This project was inspired by and referenced the following paper:
 
 **YOLO-World: Real-Time Open-Vocabulary Object Detection**  
